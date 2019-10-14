@@ -1,6 +1,6 @@
 # Mage2 Module OrviSoft Newsletter
 
-    ``orvisoft/module-newsletter``
+    `orvisoft/module-newsletter`
 
  - [Main Functionalities](#markdown-header-main-functionalities)
  - [Installation](#markdown-header-installation)
